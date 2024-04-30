@@ -5,8 +5,7 @@
 <a href="https://github.com/liuminex"><img width="45%" src="https://github-readme-stats.vercel.app/api?username=liuminex&theme=radical&title_color=ff3068?"></a>
 <a href="https://github.com/liuminex"><img width="49%" src="http://github-readme-streak-stats.herokuapp.com/?user=liuminex&theme=radical&date_format=M%20j%5B%2C%20Y%5D&ring=ff3068&fire=ff3068&sideNums=ff3068"></a>
 
-<img src="https://github.com/liuminex/metrics/blob/examples/metrics.plugin.languages.indepth.svg" alt=""></img>
-<img src="https://github.com/liuminex/metrics/blob/examples/metrics.plugin.languages.recent.svg" alt=""></img>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=liuminex&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/liuminex)
 
 <p align="center">
 	<img alt="Visitors" src="https://komarev.com/ghpvc/?username=liuminex&color=yellow&style=flat&label=visitors" />
